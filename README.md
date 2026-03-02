@@ -2,13 +2,6 @@
 
 Application Flutter de météo en temps réel pour 5 villes sénégalaises.
 
-## 👥 Membres du groupe
-
-| Nom | Prénom |
-|-----|--------|
-| À compléter | À compléter |
-| À compléter | À compléter |
-| À compléter | À compléter |
 
 ---
 
@@ -102,4 +95,3 @@ lib/
 
 ---
 
-*Examen de Développement Mobile — L3GL ISI 2026*
