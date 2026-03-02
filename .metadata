@@ -1,0 +1,37 @@
+# This file tracks properties of this Flutter project.
+# Used by Flutter tool to assess capabilities and perform upgrades etc.
+#
+# This file should be version controlled and should not be manually edited.
+
+version:
+  revision: "a14f74ff3a1cbd576d6d6486cd019f6db70c7e81"
+  channel: "stable"
+
+project_type: app
+
+migration:
+  platforms:
+    - platform: root
+      create_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+      base_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+    - platform: android
+      create_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+      base_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+    - platform: ios
+      create_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+      base_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+    - platform: linux
+      create_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+      base_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+    - platform: macos
+      create_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+      base_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+    - platform: web
+      create_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+      base_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+    - platform: windows
+      create_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+      base_revision: a14f74ff3a1cbd576d6d6486cd019f6db70c7e81
+
+  unmanaged_files:
+    - 'lib/generated_plugin_registrant.dart'
